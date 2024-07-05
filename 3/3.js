@@ -8,6 +8,6 @@ fs.writeFile('3/output.txt', 'Hello world' , (err) => {
 		console.log(err);
 		return;
 	}
-	console.log("file is created");
+	console.log("file created");
 });
     
